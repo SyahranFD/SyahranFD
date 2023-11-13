@@ -20,4 +20,5 @@ jobs:
           DEBUG_LOGGING: false
           SHOW_SHORT_INFO: false
           SHOW_TIMEZONE: false
+          SHOW_LOC_CHART: false
           SHOW_LINES_OF_CODE: true
