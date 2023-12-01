@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -65,7 +65,7 @@ PHP                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/11/2023 01:15:56 UTC
+ Last Updated on 01/12/2023 01:22:39 UTC
 <!--END_SECTION:waka-->
 
 <p align="left">
