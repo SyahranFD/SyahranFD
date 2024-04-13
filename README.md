@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-267%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
@@ -30,16 +30,16 @@ Sunday                   435 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      1 hr 35 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 35 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-laravel-limatrack-api    1 hr 35 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 35 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -55,7 +55,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/04/2024 01:14:11 UTC
+ Last Updated on 13/04/2024 01:01:23 UTC
 <!--END_SECTION:waka-->
 
 <p align="left">
