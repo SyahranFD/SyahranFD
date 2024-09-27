@@ -30,17 +30,16 @@ Sunday                   682 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      15 mins             █████████████████████████   99.89 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-laravel-fun-education-api15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -56,7 +55,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2024 01:50:11 UTC
+ Last Updated on 27/09/2024 01:50:49 UTC
 <!--END_SECTION:waka-->
 
 <p align="left">
