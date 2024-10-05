@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-428%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-428%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -30,16 +30,17 @@ Sunday                   682 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     7 mins              █████████████░░░░░░░░░░░░   52.80 % 
+YAML                     6 mins              ████████████░░░░░░░░░░░░░   47.20 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           14 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Fun-Education-App        14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  14 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -55,7 +56,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2024 01:51:09 UTC
+ Last Updated on 05/10/2024 01:49:55 UTC
 <!--END_SECTION:waka-->
 
 <p align="left">
