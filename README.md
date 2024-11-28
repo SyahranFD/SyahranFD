@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-498%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-498%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
 
@@ -30,8 +30,8 @@ Sunday                   682 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     2 hrs 7 mins        ████████████████████████░   97.39 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Java                     2 hrs 6 mins        ████████████████████████░   97.41 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 Dockerfile               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
@@ -54,7 +54,7 @@ Python                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/11/2024 02:00:55 UTC
+ Last Updated on 28/11/2024 01:59:49 UTC
 <!--END_SECTION:waka-->
 
 <p align="left">
