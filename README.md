@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-498%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-501%20hrs%2011%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
 
@@ -30,14 +30,16 @@ Sunday                   682 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr                ████████████████████████░   96.51 % 
-YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Java                     1 hr 25 mins        ██████████████░░░░░░░░░░░   55.00 % 
+YAML                     1 hr 7 mins         ███████████░░░░░░░░░░░░░░   43.56 % 
+Properties               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 2 mins         █████████████████████████   100.00 % 
+IntelliJ IDEA            2 hrs 35 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 2 mins         █████████████████████████   100.00 % 
+Windows                  2 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -53,7 +55,7 @@ Python                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 29/11/2024 01:59:27 UTC
+ Last Updated on 30/11/2024 01:55:54 UTC
 <!--END_SECTION:waka-->
 
 <p align="left">
